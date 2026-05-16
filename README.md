@@ -1,18 +1,12 @@
 # 📊 Driver Profit Calc
 
-Uma aplicação web (Front-End Puro) de alta performance projetada para auxiliar motoristas de aplicativos a realizarem o controle financeiro de seus turnos de trabalho, calculando a rentabilidade real com foco no faturamento bruto por quilômetro e na saúde financeira do veículo.
+Uma aplicação web projetada para auxiliar motoristas de aplicativos a realizarem o controle financeiro de seus turnos de trabalho, calculando a rentabilidade real com foco no faturamento bruto por quilômetro e na saúde financeira do veículo.
 
 ---
 
 ## 💡 O Problema que o Projeto Resolve
 
-Muitos motoristas de aplicativo cometem o erro crítico de calcular seu lucro diário considerando apenas o faturamento da plataforma e o gasto imediato com o combustível no posto de gasolina. Essa abordagem gera uma falsa percepção de ganho, pois ignora os **custos invisíveis** do veículo.
-
-Este projeto resolve esse problema implementando:
-1. **Métricas de Performance Reais:** Destaca o faturamento bruto por KM rodado, permitindo que o condutor avalie a eficiência estratégica do seu dia de trabalho.
-2. **Taxa de Depreciação e Manutenção Preventiva:** O motor matemático do JavaScript adiciona automaticamente um custo fixo estimado de **R$ 0,22 por quilômetro rodado**. Esse valor simula o desgaste natural do veículo, provisionando recursos necessários para futuras trocas de óleo, filtros, pastilhas de freio, desgaste de pneus, embreagem e a desvalorização de mercado do carro (FIPE).
-
----
+Muitos motoristas de aplicativo cometem o erro crítico de calcular seu lucro diário considerando apenas o faturamento da plataforma e o gasto imediato com o combustível no posto de gasolina. 
 
 ## 🛠️ Tecnologias Utilizadas
 
